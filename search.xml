@@ -10,13 +10,6 @@
 
     
     <entry>
-      <title><![CDATA[知识总结-知识体系构建]]></title>
-      <url>%2F2017%2F09%2F08%2F%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93-%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%2F</url>
-      <content type="text"><![CDATA[本文主要是编程基本知识思维导图，帮助自己构建自己的知识体系 思维导图]]></content>
-    </entry>
-
-    
-    <entry>
       <title><![CDATA[LeetCode解题报告-Add Two Numbers]]></title>
       <url>%2F2016%2F12%2F14%2FLeetCode-Add-Two-Numbers%2F</url>
       <content type="text"><![CDATA[本文介绍LeetCode-Add Two Numbers的解题思路和代码 原题You are given two linked lists representing two non-negative numbers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.]]></content>
